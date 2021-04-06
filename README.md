@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Luka
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukaMrt&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# Some stuff about me
+
+I'm 17 and I'm a french student in the Galileo high school. I like sport 🎾 and music 🥁, you can find my favorite songs just here : 
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 <!--
 **LukaMrt/LukaMrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
