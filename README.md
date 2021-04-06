@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Luka_Mrt?label=Follow)](https://twitter.com/intent/follow?screen_name=Luka_Mrt)
 ![GitHub followers](https://img.shields.io/github/followers/lukamrt?label=Follow&style=social)
-<img src="https://img.shields.io/liberapay/receives/Changaco.svg?logo=discord">
+![Discord](https://img.shields.io/badge/-LukaM#8006-7289DA?logo=discord)
 ![](https://visitor-badge.glitch.me/badge?page_id=lukamrt.lukamrt)
 
 ## 🦸‍ Some stuff about me
@@ -22,18 +22,3 @@ I started to experiment developpment projects when I was 15. I enjoy to try some
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukamrt&hide=issues&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukamrt)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**LukaMrt/LukaMrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
