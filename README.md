@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Luka_Mrt?label=Follow)](https://twitter.com/intent/follow?screen_name=Luka_Mrt)
 ![GitHub followers](https://img.shields.io/github/followers/lukamrt?label=Follow&style=social)
-[![Discord]()]()
+<img src="https://img.shields.io/liberapay/receives/Changaco.svg?logo=discord">
 ![](https://visitor-badge.glitch.me/badge?page_id=lukamrt.lukamrt)
 
 ## 🦸‍ Some stuff about me
