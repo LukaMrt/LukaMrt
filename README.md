@@ -4,7 +4,7 @@
 
 I'm 17 and I'm a french student in the Galileo high school. I like sport 🎾 and music 🥁, you can find my favorite songs just here : 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/nespote?si=UJvPF4TQTxap7NzRfcwyXg)
 
 <!--
 **LukaMrt/LukaMrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
