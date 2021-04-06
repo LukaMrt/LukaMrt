@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Luka
 
-# Some stuff about me
+# 🦸‍ Some stuff about me
 
 I'm 17 and I'm a french student in the Galileo high school. I like sport 🎾 and music 🥁, you can listen my favorite songs right now with me :
 
