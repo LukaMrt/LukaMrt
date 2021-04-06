@@ -4,7 +4,7 @@
 
 I'm 17 and I'm a french student in the Galileo high school. I like sport 🎾 and music 🥁, you can listen my favorite songs right now with me : 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nespote&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=nespote&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=nespote&cover_image=true&theme=natemoo-re)]]
 
 
 <!--
