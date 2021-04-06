@@ -17,6 +17,8 @@ I really like to study science to understand how the world is working.
 
 I started to experiment developpment projects when I was 15. I enjoy to try some things and discover by myself new technologies. 
 
+I'm very interested in the domain of software architecture. I explore this question experimenting little projects such as my pinned projects (you can see them below).
+
 ## 📈 Developpment statistics
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukamrt&hide=issues&show_icons=true)
