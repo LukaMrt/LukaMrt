@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Luka
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Luka_Mrt?label=Follow)](https://twitter.com/intent/follow?screen_name=Luka_Mrt)
-![GitHub followers](https://img.shields.io/github/followers/lukamrt?label=Follow)
-![Discord](https://img.shields.io/discord/)
+![GitHub followers](https://img.shields.io/github/followers/lukamrt?label=Follow&style=social)
+![Discord](https://img.shields.io/badge/-LukaM-7289DA?logo=discord)
 ![](https://visitor-badge.glitch.me/badge?page_id=lukamrt.lukamrt)
 
 ## 🦸‍ Some stuff about me
