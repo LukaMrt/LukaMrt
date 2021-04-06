@@ -2,11 +2,10 @@
 
 # Some stuff about me
 
-I'm 17 and I'm a french student in the Galileo high school. I like sport 🎾 and music 🥁, you can find my favorite songs just here : 
+I'm 17 and I'm a french student in the Galileo high school. I like sport 🎾 and music 🥁, you can listen my favorite songs right now with me : 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/2gwyGnvngPTQ6JuGgpundG?si=hhp4avO0Q9mLEuPDYW-nXQ)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nespote&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
-<iframe src="https://open.spotify.com/embed/playlist/2gwyGnvngPTQ6JuGgpundG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!--
 **LukaMrt/LukaMrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
