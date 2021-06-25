@@ -7,7 +7,7 @@
 
 ## 🦸‍ Some stuff about me
 
-I'm 17 and I'm a french student in the [Galileo high school, Vienne](https://galilee.ent.auvergnerhonealpes.fr/). I like sport 🎾 and music 🥁, you can listen my favorite songs right now with me :
+I'm 18 and I'm a french student in the [Claude Bernard University, Lyon](https://univ-lyon1.fr/). I like sport 🎾 and music 🥁, you can listen my favorite songs right now with me :
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nespote&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=nespote&redirect=true)
 
