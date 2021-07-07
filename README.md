@@ -21,7 +21,7 @@ I'm very interested in the domain of software architecture. I explore this quest
 
 Today I often use Java but I'm learning python to extend my knowledge. My current goal is to develop my website so I need to learn more web technologies.
 
-## 📈 Developpment statistics
+## 📈 Development statistics
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukamrt&hide=issues&show_icons=true)
 
