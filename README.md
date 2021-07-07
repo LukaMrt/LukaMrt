@@ -15,7 +15,7 @@ I really like to study science to understand how the world is working.
 
 ## 💻 Development
 
-I started to experiment developpment projects when I was 15. I enjoy to try some things and discover by myself new technologies. 
+I started to experiment development projects when I was 15. I enjoy to try some things and discover by myself new technologies. 
 
 I'm very interested in the domain of software architecture. I explore this question experimenting little projects such as my pinned projects (you can see them below).
 
