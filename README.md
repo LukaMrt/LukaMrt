@@ -13,7 +13,7 @@ I'm 18 and I'm a french student in the [Claude Bernard University, Lyon](https:/
 
 I really like to study science to understand how the world is working.
 
-## 💻 Developpment
+## 💻 Development
 
 I started to experiment developpment projects when I was 15. I enjoy to try some things and discover by myself new technologies. 
 
