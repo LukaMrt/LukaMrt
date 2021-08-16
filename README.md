@@ -19,7 +19,7 @@ I started to experiment development projects when I was 15. I enjoy to try some 
 
 I'm very interested in the domain of software architecture. I explore this question experimenting little projects such as my pinned projects (you can see them below).
 
-Today I often use Java but I'm learning python to extend my knowledge. My current goal is to develop my website so I need to learn more web technologies.
+Today I often use Java but I'm learning python to extend my knowledge. My current goal is to develop my website and here it is : [http://lukamaret.com/](http://lukamaret.com/). Feel free to contact me (maret.luka@gmail.com or discord or whatever you want) if you find a bug or just want to give me an advice for this website.
 
 ## 📈 Development statistics
 
