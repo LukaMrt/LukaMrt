@@ -14,7 +14,7 @@ En alternance chez **[Yurplan](https://yurplan.com)**, sur des sujets de cohabit
 
 <p align="center">
   <a href="https://github.com/LukaMrt/Parraindex">
-    <img src="https://stats-github.lukamaret.com/api/pin/?username=LukaMrt&repo=Parraindex&theme=default&hide_border=true" alt="Parraindex" />
+    <img src="https://stats-github.lukamaret.com/api/pin/?username=LukaMrt&repo=Parraindex&theme=default&hide_border=true&bg_color=00000000" alt="Parraindex" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Projet de 2ᵉ année à l'IUT, réalisé en équipe de 4 sur un sujet libre. On
 <br />
 <p align="center">
   <a href="https://github.com/LukaMrt/PLD-Compilateur">
-    <img src="https://stats-github.lukamaret.com/api/pin/?username=LukaMrt&repo=PLD-Compilateur&theme=default&hide_border=true" alt="PLD-Compilateur" />
+    <img src="https://stats-github.lukamaret.com/api/pin/?username=LukaMrt&repo=PLD-Compilateur&theme=default&hide_border=true&bg_color=00000000" alt="PLD-Compilateur" />
   </a>
 </p>
 
