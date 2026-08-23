@@ -1,7 +1,7 @@
 ## <p align="center">Salut, moi c'est Luka 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2F81F7&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+en+devenir+%40+INSA+Lyon;Alternant+chez+Yurplan;En+partance+pour+McMaster+University+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2F81F7&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+en+devenir;Alternant+chez+Yurplan;En+partance+pour+McMaster+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
 </p>
 
 Étudiant ingénieur en dernière année à **l'INSA Lyon**, diplômé de l'**IUT Lyon 1**. Prochaine étape : un échange semestriel à **McMaster University** (Hamilton, Ontario).
@@ -14,7 +14,7 @@ En alternance chez **[Yurplan](https://yurplan.com)**, sur des sujets de cohabit
 
 <p align="center">
   <a href="https://github.com/LukaMrt/Parraindex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LukaMrt&repo=Parraindex&theme=default&hide_border=true" alt="Parraindex" />
+    <img src="https://stats.lukamaret.com/api/pin/?username=LukaMrt&repo=Parraindex&theme=default&hide_border=true" alt="Parraindex" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Projet de 2ᵉ année à l'IUT, réalisé en équipe de 4 sur un sujet libre. On
 <br />
 <p align="center">
   <a href="https://github.com/LukaMrt/PLD-Compilateur">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LukaMrt&repo=PLD-Compilateur&theme=default&hide_border=true" alt="PLD-Compilateur" />
+    <img src="https://stats.lukamaret.com/api/pin/?username=LukaMrt&repo=PLD-Compilateur&theme=default&hide_border=true" alt="PLD-Compilateur" />
   </a>
 </p>
 
